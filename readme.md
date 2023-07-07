@@ -1,8 +1,8 @@
 ### Steps to do project
 
-1. Install node.js and  Mongos
-2. create initial project
-3. initial git
+1. Install node.js and  Mongos [Yes]
+2. create initial project [Yes]
+3. initial git [Yes]
 4. connect with mongo
 5. create model
 6. create post api
